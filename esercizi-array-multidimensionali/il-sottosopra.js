@@ -17,3 +17,9 @@
 
   http://www.imparareaprogrammare.it
 */
+
+function trasposta(a){
+  var arr=[], cont=0;
+  for (var i=0; i<a.length; i+){
+       for 
+       
