@@ -17,3 +17,7 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+function trasposta(a){
+  
